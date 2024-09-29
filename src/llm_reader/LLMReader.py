@@ -62,7 +62,7 @@ class LLMReader:
 
 
 if __name__ == "__main__":
-    llm_reader = LLMReader("/gpfs/public/01/models/hf_models/Meta-Llama-3.1-8B", "local")
+    llm_reader = LLMReader("/gpfs/public/01/models/hf_models/Meta-Llama-3.1-8B-Instruct", "local")
     test_result = llm_reader.inference_single("hello, assistant!\n", "compute 1 + 2 for me")
     print("test result:", test_result)
 
