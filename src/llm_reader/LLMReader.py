@@ -41,6 +41,7 @@ class LLMReader:
     def inference_single(self, instruction, input_text):
         if self.model_type == "local":
             outputs = self.llm.generate([instruction + input_text], self.sampling_params)
+            outputs = outputs[0].outputs[0].text
         elif self.model_type == "api":
             message_text = [{"role": "user", "content": instruction + input_text}]
             completion = self.client.chat.completions.create(
