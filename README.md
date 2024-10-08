@@ -9,7 +9,7 @@ We are currently in the process of organizing and cleaning up the code for LLM-A
 ## Updates
 
 - [2024-09-22]: Initial repository setup
-- [2024-10-08]: Clean codes of the llm reader and the query augmenter
+- [2024-10-08]: Clean the code of the llm reader and the query augmenter
 - [Future dates]: Upcoming code releases (TBA)
 
 ## Abstract
