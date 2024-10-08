@@ -1,0 +1,3 @@
+Retrieved Information: {A}
+x: {B}
+Review the information retrieved above and evaluate its utility in addressing the question represented by 'x'. Provide a response of 'Yes' if the information is pertinent and aids in formulating a comprehensive answer, or 'No' if it lacks relevance or does not contribute to a substantive response to the question. Respond with a singular 'Yes' or 'No' for the usefulness of each piece of information.

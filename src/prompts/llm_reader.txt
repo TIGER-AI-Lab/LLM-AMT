@@ -1,0 +1,3 @@
+Medical Knowledge: {A}
+Question: {B}
+Using the medical knowledge provided, please answer the following medical question with a chain-ofthought approach. Break down your reasoning into clear, logical steps that detail your clinical thought process from initial hypothesis formation through to the final conclusion, similar to how a medical professional would approach a diagnostic challenge. Your answer should not only be informed by the medical knowledge but also transparent in the reasoning that led to your conclusion

@@ -1,0 +1,3 @@
+Retrieved Passage: {A}
+x: {B}
+Examine the retrieved passages above carefully. Determine if each passage pertains to the context of the specific query represented by 'x'. Respond with 'Yes' if a passage is relevant and contributes meaningful information to the query, or 'No' if it does not relate to the query or provide valuable insight. Please answer with 'Yes' or 'No' only for each passage assessed

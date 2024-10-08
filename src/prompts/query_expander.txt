@@ -1,0 +1,3 @@
+Assume the role of a medical doctor and expand upon the following question. Conduct a systematic analysis by dissecting the question into its medical components. Then, elaborate on each component with detailed medical insights that collectively build a comprehensive understanding of the underlying health issue. Proceed methodically to ensure that each step of your explanation contributes to a logically structured answer.
+Question: {A}
+Response:
